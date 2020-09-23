@@ -5,6 +5,6 @@ Groepscasus: 1984 Ministry of Truth 2020
 V1.0
 
 ## Authors
-Rob Verlinden
-Minka Firth
-Mitchell Ton
+* Rob Verlinden
+* Minka Firth
+* Mitchell Ton
